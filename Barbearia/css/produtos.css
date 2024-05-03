@@ -42,3 +42,24 @@
     font-weight: bold;
     margin: 10px 0;
 }
+
+@media screen and (max-width: 480px) {
+    .caixa, .produtos{
+        width: auto;
+    }
+
+    .produtos{
+        padding: 0 0;
+    }
+
+    .produtos li{
+        text-align: center;
+        display: block;
+        width: 85%;
+        margin: 20px auto;
+    }
+
+    li img{
+        width: 210px;
+    }
+}
