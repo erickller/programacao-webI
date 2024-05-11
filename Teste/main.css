@@ -11,10 +11,12 @@ ul{
 }
 
 .light-theme{
-    color: rgb(255, 255, 255);
-    background: #131313;
+    color: rgb(0, 0, 0);
+    background: #ffffff;
 }
 
 .video{
-    
+    width: 25.5%;
+    margin: 0 auto 2em;
+    box-shadow: 12px 12px 15px  #000000;
 }
